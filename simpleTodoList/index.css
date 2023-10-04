@@ -1,0 +1,47 @@
+body{
+    background: #43373798;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ width: 769px;
+ background-color: bisque;
+ padding: 20px;
+}
+.content-area > input{
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+}
+#c{
+    outline: none;
+}
+#hi{
+    font-weight: bold;
+}
+.btn{
+    text-align: center;
+    margin: 5px 0 0 0;
+}
+.result{
+    margin: 5px 0 0 0;
+    border: 1px solid #6c6a6a5c;
+    box-shadow: inset;
+    font-family: sans-serif;
+}
+.check{
+    display: flex;
+    justify-content: center;
+}
+.check1{
+    display: flex;
+    justify-content: space-between;
+    background: aqua;
+    padding: 0  10px;
+}
